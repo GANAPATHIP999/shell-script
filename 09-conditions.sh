@@ -9,3 +9,4 @@ if [ $NUMBER -gt 10 ]
 else 
     echo "Given numbar $NUMBER is less than 10"
 fi
+#-gt, -lt, -eq, -ge, -le
