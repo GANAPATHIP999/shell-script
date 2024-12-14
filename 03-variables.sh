@@ -1,7 +1,7 @@
  #!/bin/bash
 
- PERSON1=Ramesh
- PERSON2=Suresh
+ PERSON1=Pemmani
+ PERSON2=Gana
 
 
 
