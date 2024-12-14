@@ -10,4 +10,4 @@ else
     echo "you are super user."
 fi
 
-dnh install mysql -y
+dnf install mysql -y
