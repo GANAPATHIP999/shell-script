@@ -8,4 +8,6 @@ if [ $USERID -ne 0 ]
 else 
 
     echo "you are super user."
+fi
+
 dnh install mysql -y
