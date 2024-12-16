@@ -34,6 +34,6 @@ VALIDATE $? "Installing MYSQL "
 dnf install git -y &>>$LOGFILE
 VALIDATE $? "Installing Git "
 
-
+ 
 
 
