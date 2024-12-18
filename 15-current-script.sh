@@ -10,3 +10,4 @@ COURSE="Devops from current Script"
 
  echo "After calling other script, course: $COURSE"
  
+ 
